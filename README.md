@@ -1,6 +1,6 @@
 # AppReconstructor
 ## Goal & Mission Statement:
-Make an AI that can decompile apps, and also have it examine running code and memory & storage files, on a standard & "licensed" install from Google Play running on rooted Android, or using hacking tools like a **bus pirate**: to extract, modify, & reconstruct locked down and restricted apps.
+Make an AI that can decompile apps, and also have it examine running code and memory & storage files, on a standard & "licensed" install from Google Play running on rooted Android, or using hacking tools like a **bus pirate**: to extract, modify, & reconstruct locked down and restricted apps with those code paths removed or circumvented through technologies like emulation (trap and emulate up. certain instructions/functions) and spoofing.
 
 With this running app in memory image it would also be possible to use components from the app and even individual functions or objects and an entirely new interface and app created by SuperappAI.
 
